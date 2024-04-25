@@ -1,5 +1,7 @@
 ![banner](https://raw.githubusercontent.com/tomfran/typo/main/images/banner-light.png)
 
+# WIP Hugo -> Zola conversion for the Typo theme
+
 # Typo, a Hugo theme.
 
 Typo is a theme backed by simplicity, as you can see in the screenshots below. The goal was to have a website centered around content and nothing more.
